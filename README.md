@@ -67,6 +67,23 @@ In the next five years, I aim to be at the forefront of AI and robotics research
 !GitHub Stats
 
 !Top Languages
+## 📫 Connect with Me
+- LinkedIn
+- Email
+
+## 📊 GitHub Stats
+!GitHub Stats
+!Top Languages
+
+## 🏆 GitHub Trophies
+!GitHub Trophies
+
+## 🖼️ Featured Repositories
+!ReadMe Card
+!ReadMe Card
+
+## 🌐 Visitor Count
+!Visitor Count
 
 <h3 align="center">Software engineer | Python developer | Data science and web development hobbyist | CSE alumni</h3>
 <img algin="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.f0fef1eb96e50c4820eee35462a62ab2?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fK5kfQExKk731K%2fgiphy.gif&ehk=t%2bOXEOm0mQVWtNiU0oWXspjN1b%2buZL7ZOsyylgB0suU%3d">
