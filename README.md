@@ -104,7 +104,7 @@ In the next five years, I aim to be at the forefront of AI and robotics research
   
 
 ## 🖼️ Featured Repositories
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/MdFahimShahoriar/bbfce31e0217a3689c8d961a356cb10d/)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MdFahimShahoriar&label=Profile%20views&color=0e75b6&style=flat" alt="MdFahimShahoriar" /> </p>
