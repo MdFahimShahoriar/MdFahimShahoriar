@@ -6,6 +6,7 @@
 I'm a passionate researcher and developer with a BSc in Computer Science and Engineering from North South University. My expertise lies in deep learning, machine learning, and computer vision, with a focus on environmental monitoring and public health. I love tackling real-world challenges and creating innovative solutions that make a tangible impact.
 <p align="left"> <a href="https://twitter.com/fahim_t2" target="blank"><img src="https://img.shields.io/twitter/follow/fahim_t2?logo=twitter&style=for-the-badge" alt="fahim_t2" /></a> </p>
 
+<h3 align="center">Python | SQL | Edge Computing | JS | HTML | CSS</h3>
 Skills: Python / SQL / Edge Computing / JS / HTML / CSS
 
 - 🔭 I’m currently working on Research Assistant at North South University under Riasat Khan. 
