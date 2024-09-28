@@ -103,7 +103,7 @@ In the next five years, I aim to be at the forefront of AI and robotics research
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MdFahimShahoriar)  
   
 
-## 🖼️ Featured Repositories
+## 🖼️ Featured
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/MdFahimShahoriar/bbfce31e0217a3689c8d961a356cb10d/)
 
 
@@ -113,6 +113,6 @@ In the next five years, I aim to be at the forefront of AI and robotics research
 ## 🌱 Long-Term Goals
 In the next five years, I aim to be at the forefront of AI and robotics research, developing innovative solutions for public health and environmental sustainability. My goal is to lead impactful projects that address real-world challenges and improve lives in underdeveloped areas.
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MdFahimShahoriar/contributions?format=svg&private=true)
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact)(https://github.com/titushahoriar/github-readme-stats)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact)(
 *Let's collaborate and create something amazing together!*
-<img algin="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.f0fef1eb96e50c4820eee35462a62ab2?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fK5kfQExKk731K%2fgiphy.gif&ehk=t%2bOXEOm0mQVWtNiU0oWXspjN1b%2buZL7ZOsyylgB0suU%3d">
+
