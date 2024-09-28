@@ -67,13 +67,12 @@ In the next five years, I aim to be at the forefront of AI and robotics research
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdFahimShahoriar)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdFahimShahoriar&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MdFahimShahoriar/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/MdFahimShahoriar)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdFahimShahoriar&show_icons=true&count_private=true) 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MdFahimShahoriar)  
+  
+![GitHub metrics](https://metrics.lecoq.io/MdFahimShahoriar)  
+
 
 
 
@@ -153,5 +152,6 @@ In the next five years, I aim to be at the forefront of AI and robotics research
 
 <p align="left"> <a href="https://twitter.com/fahim_t2" target="blank"><img src="https://img.shields.io/twitter/follow/fahim_t2?logo=twitter&style=for-the-badge" alt="fahim_t2" /></a> </p>
 
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MdFahimShahoriar/contributions?format=svg&private=true)
 *Let's collaborate and create something amazing together!*
 
