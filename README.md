@@ -7,7 +7,7 @@ I'm a passionate researcher and developer with a BSc in Computer Science and Eng
 <p align="left"> <a href="https://twitter.com/fahim_t2" target="blank"><img src="https://img.shields.io/twitter/follow/fahim_t2?logo=twitter&style=for-the-badge" alt="fahim_t2" /></a> </p>
 
 <h3 align="center">Python | SQL | Edge Computing | JS | HTML | CSS</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MdFahimShahoriar&label=Profile%20views&color=0e75b6&style=flat" alt="MdFahimShahoriar" /> </p>
 
 - 🔭 I’m currently working on Research Assistant at North South University under Riasat Khan. 
 - 🌱 I’m currently learning Data Analysis
@@ -102,9 +102,8 @@ In the next five years, I aim to be at the forefront of AI and robotics research
 !Visitor Count
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=titushahoriar&label=Profile%20views&color=0e75b6&style=flat" alt="titushahoriar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MdFahimShahoriar&label=Profile%20views&color=0e75b6&style=flat" alt="MdFahimShahoriar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=titushahoriar" alt="titushahoriar" /></a> </p>
 
 ## 🌱 Long-Term Goals
 In the next five years, I aim to be at the forefront of AI and robotics research, developing innovative solutions for public health and environmental sustainability. My goal is to lead impactful projects that address real-world challenges and improve lives in underdeveloped areas.
