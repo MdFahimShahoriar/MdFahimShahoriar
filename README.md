@@ -106,8 +106,8 @@ In the next five years, I aim to be at the forefront of AI and robotics research
   - Activities: NSU CEC Club
 
 ## 🛠️ Skills
-- **Programming Languages:** Python, C++, Java
-- **Tools & Technologies:** TensorFlow, Keras, PyTorch, OpenCV, Git, GitHub
+- **Programming Languages:** Python, SQL, JS, Html. Css
+- **Tools & Technologies:** TensorFlow, Keras, PyTorch, OpenCV, Git, GitHub, Colab, Jupiter Notebook, Kaggel
 - **Soft Skills:** Public Speaking, Teamwork, Data Visualization, Data Annotation
 
 ## 📜 Certifications
