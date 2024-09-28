@@ -10,7 +10,7 @@ I'm a passionate researcher and developer with a BSc in Computer Science and Eng
 </p>
   <p align="center">
     <a href="https://github.com/MdFahimShahoriar/github-readme-stats/actions">
-            <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+            <img alt="Tests Passing" src="https://github.com/MdFahimShahoriar/github-readme-stats/workflows/Test/badge.svg" />
     </a>
     <a href="https://github.com/MdFahimShahoriar/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/MdFahimShahoriar/github-readme-stats" />
