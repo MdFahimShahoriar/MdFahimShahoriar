@@ -7,7 +7,7 @@ I'm a passionate researcher and developer with a BSc in Computer Science and Eng
 <p align="left"> <a href="https://twitter.com/fahim_t2" target="blank"><img src="https://img.shields.io/twitter/follow/fahim_t2?logo=twitter&style=for-the-badge" alt="fahim_t2" /></a> </p>
 
 <h3 align="center">Python | SQL | Edge Computing | JS | HTML | CSS</h3>
-Skills: Python / SQL / Edge Computing / JS / HTML / CSS
+
 
 - 🔭 I’m currently working on Research Assistant at North South University under Riasat Khan. 
 - 🌱 I’m currently learning Data Analysis
@@ -76,51 +76,6 @@ In the next five years, I aim to be at the forefront of AI and robotics research
 ![GitHub metrics](https://metrics.lecoq.io/MdFahimShahoriar)  
 
 
-
-
-
-## 🔭 Current Role
-**Research Assistant** at North South University under Riasat Khan
-
-- Conducting advanced research in deep learning and computer vision
-- Developing neural network models for visual pollution detection and robotic vision systems
-- Integrating AI models on drones for real-time fire detection
-
-## 🏆 Achievements
-- Published multiple research papers in high-impact journals
-- Developed high-accuracy deep learning models for various applications
-- Contributed to the advancement of automation and AI in industrial and environmental sectors
-
-## 📚 Publications
-1. **Deep-Learning-Based Real-Time Visual Pollution Detection in Urban and Textile Environments**
-   - *Sci, 6(1), 5, 2024*
-2. **Experiments with Cooperative Robots that Can Detect Object’s Shape, Color, and Size to Perform Tasks in Industrial Workplaces**
-   - *International Journal of Intelligent Robotics and Applications, 8(1), 179-192, 2024*
-3. **Real-Time Fire Detection: Integrating Lightweight Deep Learning Models on Drones with Edge Computing**
-   - *Drones, 8(9), 483, 2024*
-4. **Kidney Cancerous Tumor Prediction using CNN System Architecture**
-   - *Asian Journal Of Medical Technology, 4(1), 57-70, 2024*
-
-## 🎓 Education
-- **BSc in Computer Science and Engineering**
-  - North South University, Dhaka, Bangladesh
-  - Activities: NSU CEC Club
-
-## 🛠️ Skills
-- **Programming Languages:** Python, SQL, JS, Html. Css
-- **Tools & Technologies:** TensorFlow, Keras, PyTorch, OpenCV, Git, GitHub, Colab, Jupiter Notebook, Kaggel
-- **Soft Skills:** Public Speaking, Teamwork, Data Visualization, Data Annotation
-
-## 📜 Certifications
-- **Introduction to Programming Using Python** - BYLCx
-- **AI for Business Strategy & Planning** - Udemy
-- **Digital Marketing 101: Digital Marketer Beginners Guide** - Simplilearn
-- **Git GitHub** - Simplilearn
-
-## 🌱 Long-Term Goals
-In the next five years, I aim to be at the forefront of AI and robotics research, developing innovative solutions for public health and environmental sustainability. My goal is to lead impactful projects that address real-world challenges and improve lives in underdeveloped areas.
-
-
 ## 📫 Connect with Me
 - LinkedIn
 - Email
@@ -154,7 +109,8 @@ In the next five years, I aim to be at the forefront of AI and robotics research
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=titushahoriar" alt="titushahoriar" /></a> </p>
 
-
+## 🌱 Long-Term Goals
+In the next five years, I aim to be at the forefront of AI and robotics research, developing innovative solutions for public health and environmental sustainability. My goal is to lead impactful projects that address real-world challenges and improve lives in underdeveloped areas.
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MdFahimShahoriar/contributions?format=svg&private=true)
 *Let's collaborate and create something amazing together!*
 
