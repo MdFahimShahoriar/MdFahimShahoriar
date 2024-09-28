@@ -112,7 +112,9 @@ In the next five years, I aim to be at the forefront of AI and robotics research
 
 ## 🌱 Long-Term Goals
 In the next five years, I aim to be at the forefront of AI and robotics research, developing innovative solutions for public health and environmental sustainability. My goal is to lead impactful projects that address real-world challenges and improve lives in underdeveloped areas.
+
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MdFahimShahoriar/contributions?format=svg&private=true)
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact)(
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact)
+
 *Let's collaborate and create something amazing together!*
 
