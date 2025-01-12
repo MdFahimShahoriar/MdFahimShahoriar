@@ -100,9 +100,6 @@ In the next five years, I aim to be at the forefront of AI and robotics research
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdFahimShahoriar&show_icons=true&count_private=true) 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MdFahimShahoriar)  
-  
-
 ## 🖼️ Featured
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/MdFahimShahoriar/bbfce31e0217a3689c8d961a356cb10d/)
 
