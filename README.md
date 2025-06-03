@@ -139,7 +139,7 @@ Working under Dr. Riasat Khan in the Department of Electrical Engineering and Co
    - **Key Contribution:** CNN-based diagnostic system for medical imaging
 
 **Research Metrics:**
-- **Total Citations:** 15+ (Google Scholar)
+- **Total Citations:** 30+ (Google Scholar)
 - **H-Index:** Growing research impact
 - **Research Areas:** Deep Learning, Environmental Research, Machine Learning
 
