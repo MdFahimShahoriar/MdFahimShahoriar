@@ -1,4 +1,4 @@
-### Hi there 👋, I am Md Fahim Shahoriar Titu
+### Hi there 👋, I am Md Fahim Shahoriar Titu.
 #### My expertise lies in deep learning, machine learning, and computer vision, with a focus on environmental monitoring and public health.
 
 ![Header](./image.png)
