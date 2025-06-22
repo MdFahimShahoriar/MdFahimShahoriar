@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Md Fahim Shahoriar Tit
+# Hi there 👋, I'm Md Fahim Shahoriar Titu
 
 **AI Researcher | Computer Vision Expert | Deep Learning Specialist**
 
