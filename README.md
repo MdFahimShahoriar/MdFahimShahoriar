@@ -6,16 +6,6 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Fahim%20Shahoriar%20Titu-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mdfahimshahoriartitu)  
-[![GitHub](https://img.shields.io/badge/GitHub-Md%20Fahim%20Shahoriar-black?style=for-the-badge&logo=github)](https://github.com/MdFahimShahoriar)  
-[![Email](https://img.shields.io/badge/Email-mdfahimshahoriartitu%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mdfahimshahoriartitu@gmail.com)  
-[![Phone](https://img.shields.io/badge/Phone-%2B8801995039697-green?style=for-the-badge&logo=whatsapp)](tel:+8801995039697)
-
-</div>
-
----
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdfahimshahoriartitu)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MdFahimShahoriar)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdfahimshahoriartitu@gmail.com)
