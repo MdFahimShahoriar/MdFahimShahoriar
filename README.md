@@ -161,21 +161,146 @@ Creative and motivated **AI/ML Engineer** and **Designer** with a passion for de
 
 ---
 
-## 📈 My GitHub Activity at a Glance
+## 🚀 GitHub Analytics Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdFahimShahoriar&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Fahim's GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MdFahimShahoriar&theme=tokyonight&hide_border=true" alt="Fahim's GitHub Streak" />
-</p>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=GitHub%20Analytics&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdFahimShahoriar&layout=compact&theme=tokyonight&hide_border=true" alt="Fahim's Most Used Languages" />
-</p>
+</div>
+
+<!-- Main Stats Grid -->
+<div align="center">
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=MdFahimShahoriar&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f39c12&icon_color=f39c12&text_color=ffffff&border_radius=15" width="100%"/>
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MdFahimShahoriar&theme=radical&hide_border=true&background=0d1117&stroke=f39c12&ring=f39c12&fire=ff6b6b&currStreakLabel=ffffff&border_radius=15" width="100%"/>
+</td>
+</tr>
+</table>
+</div>
+
+<!-- Language & Activity Stats -->
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdFahimShahoriar&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=f39c12&text_color=ffffff&border_radius=15&langs_count=10" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdFahimShahoriar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f39c12&text_color=ffffff&border_radius=15&langs_count=8" width="100%"/>
+</td>
+</tr>
+</table>
+</div>
+
+<!-- Advanced Analytics -->
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdFahimShahoriar&theme=radical&hide_border=true" width="100%"/>
+
+<br><br>
+
+<table>
+<tr>
+<td width="25%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdFahimShahoriar&theme=radical&hide_border=true" width="100%"/>
+</td>
+<td width="25%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdFahimShahoriar&theme=radical&hide_border=true" width="100%"/>
+</td>
+<td width="25%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdFahimShahoriar&theme=radical&hide_border=true" width="100%"/>
+</td>
+<td width="25%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdFahimShahoriar&theme=radical&hide_border=true&utcOffset=6" width="100%"/>
+</td>
+</tr>
+</table>
+</div>
 
 ---
+
+<div align="center">
+
+<!-- Trophy Section with Animation -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
+
+## 🏆 Achievement Gallery
+
+<img src="https://github-profile-trophy.vercel.app/?username=MdFahimShahoriar&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+
+</div>
+
+<!-- Premium Badges Showcase -->
+<div align="center">
+
+### ⭐ Elite Recognition Badges
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="60" height="60"/>
+<br><strong>🧊 Arctic Vault</strong>
+<br><sub>Code Preservation</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="60" height="60"/>
+<br><strong>👨‍💻 Developer Pro</strong>
+<br><sub>GitHub Expert</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="60" height="60"/>
+<br><strong>💎 GitHub Pro</strong>
+<br><sub>Premium Member</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="60" height="60"/>
+<br><strong>⭐ GitHub Star</strong>
+<br><sub>Community Leader</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="60" height="60"/>
+<br><strong>💝 Sponsor</strong>
+<br><sub>Open Source Supporter</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- Dynamic Activity Graph -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
+
+## 📈 Contribution Metrics & Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdFahimShahoriar&bg_color=0d1117&color=f39c12&line=ff6b6b&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="100%"/>
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://api.vaunt.dev/v1/github/entities/MdFahimShahoriar/contributions?format=svg&private=true" width="100%"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- Featured Projects Section -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
 
 ## 🌟 Leadership & Volunteer Experience
 
