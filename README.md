@@ -6,13 +6,22 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdfahimshahoriartitu)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MdFahimShahoriar)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdfahimshahoriartitu@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801995039697)
+<p>
+  <a href="https://linkedin.com/in/mdfahimshahoriartitu">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/MdFahimShahoriar">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:mdfahimshahoriartitu@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/8801995039697">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
 
 </div>
-
 ---
 
 ## 🚀 About Me
@@ -47,23 +56,34 @@ Creative and motivated **AI/ML Engineer** and **Designer** with a passion for de
 
 <div align="center">
 
-### Programming & Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+### 🧠 Programming & Development
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</p>
 
-### Design & Creative Tools
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe Firefly](https://img.shields.io/badge/Adobe%20Firefly-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![DALL·E](https://img.shields.io/badge/DALL·E-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Tools & Technologies
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google%20colab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🎨 Design & Creative Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Adobe%20Firefly-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Firefly"/>
+  <img src="https://img.shields.io/badge/DALL·E-412991?style=for-the-badge&logo=openai&logoColor=white" alt="DALL-E"/>
+</p>
+
+
+### ⚙️ Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google%20colab&logoColor=white" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
 
 </div>
 
@@ -319,50 +339,56 @@ Creative and motivated **AI/ML Engineer** and **Designer** with a passion for de
 ## 🎓 Education
 
 **🎯 Bachelor of Science in Computer Science and Engineering**  
-*North South University* | December 2024 | CGPA: 2.98
+*North South University*  
+📅 December 2024 | 📊 CGPA: 2.98  
 
 **📚 Higher Secondary Certificate (Science)**  
-*Cantonment Public School & College* | 2018 | GPA: 5.00
+*Cantonment Public School & College*  
+📅 2018 | 🎓 GPA: 5.00  
 
 **🏫 Secondary School Certificate (Science)**  
-*Jahangirnagar Cantonment Board High School* | 2015 | GPA: 5.00
+*Jahangirnagar Cantonment Board High School*  
+📅 2015 | 🎓 GPA: 5.00
 
 ---
 
 ## 🤝 Professional References
-
-<div align="center">
 
 ### 👨‍🏫 Academic Reference
 **Dr. Riasat Khan**  
 *Associate Professor & Undergraduate Coordinator (EEE/ETE)*  
 North South University  
 📧 riast.khan@northsouth.edu  
-📱 +880 1879 992680
+📱 +880 1879 992680  
 
 ### 💼 Professional Reference
 **A.N.M. Shakawath Hossain, CISA, CCISO**  
 *Director*  
 Sami Tech Ltd  
 📧 shakawath@acnabin-bd.com  
-📱 +880 1817 035312
-
-</div>
+📱 +880 1817 035312  
 
 ---
 
 ## 📞 Let's Connect!
 
-<div align="center">
-
 I'm always excited to collaborate on innovative projects, discuss AI/ML applications, or explore creative design opportunities. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-fahim-shahoriar-titu)
-[![Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdfahimshahoriartitu@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahim-shahoriar)
+<p align="center">
+  <a href="https://linkedin.com/in/md-fahim-shahoriar-titu">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mdfahimshahoriartitu@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/fahim-shahoriar">
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 **📱 Phone:** +8801995039697 | +8801639477955  
-**🌍 Location:** Dhaka, Bangladesh
+**🌍 Location:** Dhaka, Bangladesh  
+
 
 ---
 
