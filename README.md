@@ -12,7 +12,9 @@
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801995039697)
 
 </div>
+
 ---
+
 ## 🚀 About Me
 
 Creative and motivated **AI/ML Engineer** and **Designer** with a passion for developing innovative solutions that bridge technology and creativity. Currently working as an **IT Audit Associate** at ACNABIN, with strong experience in **machine learning**, **computer vision**, and **creative design**.
