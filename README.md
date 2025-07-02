@@ -5,10 +5,10 @@
 </div>
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Fahim%20Shahoriar%20Titu-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/md-fahim-shahoriar-titu)
-[![GitHub](https://img.shields.io/badge/GitHub-Md%20Fahim%20Shahoriar-black?style=for-the-badge&logo=github)](https://github.com/fahim-shahoriar)
-[![Email](https://img.shields.io/badge/Email-mdfahimshahoriartitu%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mdfahimshahoriartitu@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Fahim%20Shahoriar%20Titu-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mdfahimshahoriartitu)  
+[![GitHub](https://img.shields.io/badge/GitHub-Md%20Fahim%20Shahoriar-black?style=for-the-badge&logo=github)](https://github.com/MdFahimShahoriar)  
+[![Email](https://img.shields.io/badge/Email-mdfahimshahoriartitu%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mdfahimshahoriartitu@gmail.com)  
 [![Phone](https://img.shields.io/badge/Phone-%2B8801995039697-green?style=for-the-badge&logo=whatsapp)](tel:+8801995039697)
 
 </div>
