@@ -323,17 +323,18 @@ Creative and motivated **AI/ML Engineer** and **Designer** with a passion for de
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
 
+
 ## 🌟 Leadership & Volunteer Experience
 
-### 👥 Senior Member | CEC Club
-- Led robotics workshops and coordinated technical competitions
-- Mentored junior members in robotics and programming
-- Enhanced leadership and teamwork skills through project management
+### 👥 Senior Member | CEC Club  
+- Led robotics workshops and coordinated technical competitions  
+- Mentored junior members in robotics and programming  
+- Enhanced leadership and teamwork skills through project management  
 
-### 📚 Teaching Assistant | Data Science Bootcamp
-- Supported learners in Python programming and machine learning fundamentals
-- Developed educational content and practical exercises
-- Improved mentoring and communication abilities
+### 📚 Teaching Assistant | Data Science Bootcamp  
+- Supported learners in Python programming and machine learning fundamentals  
+- Developed educational content and practical exercises  
+- Improved mentoring and communication abilities  
 
 ---
 
@@ -341,28 +342,28 @@ Creative and motivated **AI/ML Engineer** and **Designer** with a passion for de
 
 **🎯 Bachelor of Science in Computer Science and Engineering**  
 *North South University*  
-📅 December 2024 | 📊 CGPA: 2.98  
+📅 December 2024 | 📊 CGPA: 2.98  
 
 **📚 Higher Secondary Certificate (Science)**  
 *Cantonment Public School & College*  
-📅 2018 | 🎓 GPA: 5.00  
+📅 2018 | 🎓 GPA: 5.00  
 
 **🏫 Secondary School Certificate (Science)**  
 *Jahangirnagar Cantonment Board High School*  
-📅 2015 | 🎓 GPA: 5.00
+📅 2015 | 🎓 GPA: 5.00  
 
 ---
 
 ## 🤝 Professional References
 
-### 👨‍🏫 Academic Reference
+### 👨‍🏫 Academic Reference  
 **Dr. Riasat Khan**  
 *Associate Professor & Undergraduate Coordinator (EEE/ETE)*  
 North South University  
 📧 riast.khan@northsouth.edu  
 📱 +880 1879 992680  
 
-### 💼 Professional Reference
+### 💼 Professional Reference  
 **A.N.M. Shakawath Hossain, CISA, CCISO**  
 *Director*  
 Sami Tech Ltd  
