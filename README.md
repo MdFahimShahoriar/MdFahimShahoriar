@@ -77,14 +77,14 @@ Creative and motivated **AI/ML Engineer** and **Designer** with a passion for de
 <table>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/150x100/4285F4/FFFFFF?text=AI+Strategy" alt="AI Strategy Certificate" width="150"/>
+      <img src="./AI%20for%20Business%20Strategy%20%26%20Planning%20UDEMY.jpg" alt="AI Strategy Certificate" width="200"/>
       <br><strong>AI for Business Strategy & Planning</strong>
-      <br><em>Udemy - December 2024</em>
+      <br><em>Udemy – December 2024</em>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/150x100/FF6B6B/FFFFFF?text=Digital+Marketing" alt="Digital Marketing Certificate" width="150"/>
+      <img src="./Digital%20Marketing%20Certificate.jpg" alt="Digital Marketing Certificate" width="200"/>
       <br><strong>Digital Marketing 101</strong>
-      <br><em>Simplilearn - January 2024</em>
+      <br><em>Simplilearn – January 2024</em>
     </td>
   </tr>
 </table>
@@ -93,14 +93,14 @@ Creative and motivated **AI/ML Engineer** and **Designer** with a passion for de
 <table>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/150x100/4ECDC4/FFFFFF?text=SEO" alt="SEO Certificate" width="150"/>
-      <br><strong>SEO Optimization</strong>
-      <br><em>MindLuster - February 2024</em>
+      <img src="./SEO%20Search%20Engine%20Optimization.png" alt="SEO Certificate" width="200"/>
+      <br><strong>SEO Search Engine Optimization</strong>
+      <br><em>MindLuster – February 2024</em>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/150x100/FFE66D/000000?text=Gen+AI" alt="Generative AI Certificate" width="150"/>
+      <img src="./Generative%20AI%20Studio.png" alt="Generative AI Studio Certificate" width="200"/>
       <br><strong>Generative AI Studio</strong>
-      <br><em>Google Cloud - February 2024</em>
+      <br><em>Google Cloud – February 2024</em>
     </td>
   </tr>
 </table>
