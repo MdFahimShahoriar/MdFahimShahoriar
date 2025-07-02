@@ -161,16 +161,19 @@ Creative and motivated **AI/ML Engineer** and **Designer** with a passion for de
 
 ---
 
-## 📊 GitHub Stats
+## 📈 My GitHub Activity at a Glance
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdFahimShahoriar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdFahimShahoriar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MdFahimShahoriar&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Fahim's GitHub Stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdFahimShahoriar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MdFahimShahoriar&theme=tokyonight&hide_border=true" alt="Fahim's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdFahimShahoriar&layout=compact&theme=tokyonight&hide_border=true" alt="Fahim's Most Used Languages" />
+</p>
 
 ---
 
