@@ -342,7 +342,7 @@ Creative and motivated **AI/ML Engineer** and **Designer** with a passion for de
 
 **🎯 Bachelor of Science in Computer Science and Engineering**  
 *North South University*  
-📅 December 2024 | 📊 CGPA: 2.98  
+📅 December 2024 | 📊 CGPA: 2.98(83%)  
 
 **📚 Higher Secondary Certificate (Science)**  
 *Cantonment Public School & College*  
